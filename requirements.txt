@@ -1,0 +1,14 @@
+pandas
+numpy
+uuid
+faker
+psycopg2-binary
+python-dotenv
+requests
+SQLAlchemy
+configparser
+PyMySQL
+mongoengine
+pymongo
+Flask
+minio
